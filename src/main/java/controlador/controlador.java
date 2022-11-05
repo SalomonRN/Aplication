@@ -18,8 +18,7 @@ import vista.actualizar;
 import vista.informe;
 
 /**
- *
- * @author Salomon RN
+ * @author Salomon
  */
 public class controlador {
     // Llamada de las clases

@@ -7,7 +7,7 @@ import org.springframework.data.repository.CrudRepository;
 
 /**
  *
- * @author Salomon RN
+ * @author Salomon
  */
 //
 @Table("productos")
